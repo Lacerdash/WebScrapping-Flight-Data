@@ -1,6 +1,6 @@
 # Web Scrapping Flight Data
 
-This is a personal project to extract and compare flight prices from two different websites: [Decolar.com](https://www.decolar.com/) and [Passagens Promo](https://www.passagenspromo.com.br/). The objective is to be able to compare the prices between the two websites after extracting, transforming, and loading the data. The project is inspired by a real business need that I experienced and it aims to help me train my web scraping skills that I have studied for real-world projects.
+This is a personal project to extract and compare flight prices from two different websites: [`Decolar.com`](https://www.decolar.com/) and [`Passagens Promo`](https://www.passagenspromo.com.br/). The objective is to be able to compare the prices between the two websites after extracting, transforming, and loading the data. The project is inspired by a real business need that I experienced and it aims to help me train my web scraping skills that I have studied for real-world projects.
 
 ## Project Description
 
