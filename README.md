@@ -7,7 +7,7 @@ This is a personal project to extract and compare flight prices from two differe
 The project consists of 3 main .ipynb files:
 
 - [webScrappingFlightData.ipynb](https://github.com/Lacerdash/WebScrapping-Flight-Data/blob/master/webScrappingFlightData.ipynb): This file contains all the code documentation and explanations of how it works and the logic behind it
-    - [WebScrappingScript.ipynb](https://github.com/Lacerdash/WebScrapping-Flight-Data/blob/master/webScrappingScript.ipynb): This file contains all the functions used to generate the final result
+    - [webScrappingFunctions.ipynb](https://github.com/Lacerdash/WebScrapping-Flight-Data/blob/master/webScrappingFunctions.ipynb): This file contains all the functions used to generate the final result
     - [searchParametersGenerator.ipynb](https://github.com/Lacerdash/WebScrapping-Flight-Data/blob/master/searchParametersGenerator.ipynb): This file contains the function to randomly generated search parameters for the main scripts.
 
 Additionally, the repository includes the following files:
